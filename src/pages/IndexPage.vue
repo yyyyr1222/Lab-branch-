@@ -99,3 +99,11 @@ export default {
   }
 }
 </script>
+
+return {
+  framework: {
+    plugins: [
+      'Notify'
+    ],
+  }
+}
