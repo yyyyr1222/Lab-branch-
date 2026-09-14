@@ -23,3 +23,4 @@ quasar build
 
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-file).
 # Lab-branch-
+# lab-version-control-merge
